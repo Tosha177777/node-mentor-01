@@ -1,0 +1,9 @@
+{
+  "description": "",
+  "scripts": {
+    "dev": "cross-env anton=meat vika=shashlik node server.js "
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
